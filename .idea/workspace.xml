@@ -1,18 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="86847039-b47f-46f3-b31f-1bde67d595ee" name="Changes" comment="" />
+    <list default="true" id="86847039-b47f-46f3-b31f-1bde67d595ee" name="Changes" comment="Домашнее задание по теме: &quot;Генераторные функций на лету&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pavelmeysak&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/pavelmeysak/Module_9.git&quot;,
+    &quot;accountId&quot;: &quot;6b86cbf4-5f7e-4fc3-8564-f3c8f5bb7667&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2l4Jqln3ss1FTyaSlW3P6UwFRNz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,6 +46,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Module_9_1.executor": "Run",
+    "Python.Module_9_2.executor": "Run",
+    "Python.Module_9_3.executor": "Run",
+    "Python.Module_9_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -41,6 +70,46 @@
       <option name="presentableId" value="Default" />
       <updated>1724433608269</updated>
     </task>
+    <task id="LOCAL-00001" summary="Домашнее задание по теме: &quot;Введение в функциональное программирование&quot;">
+      <option name="closed" value="true" />
+      <created>1724435348990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724435348990</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Домашнее задание по теме: &quot;Списковые сборки&quot;">
+      <option name="closed" value="true" />
+      <created>1724701690679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724701690679</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Домашнее задание по теме: &quot;Генераторные сборки&quot;">
+      <option name="closed" value="true" />
+      <created>1724704493173</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724704493173</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Домашнее задание по теме: &quot;Генераторные функций на лету&quot;">
+      <option name="closed" value="true" />
+      <created>1724791135403</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724791135403</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Домашнее задание по теме: &quot;Введение в функциональное программирование&quot;" />
+    <MESSAGE value="Домашнее задание по теме: &quot;Списковые сборки&quot;" />
+    <MESSAGE value="Домашнее задание по теме: &quot;Генераторные сборки&quot;" />
+    <MESSAGE value="Домашнее задание по теме: &quot;Генераторные функций на лету&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме: &quot;Генераторные функций на лету&quot;" />
   </component>
 </project>
